@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+	<STAND id="stand" title="localhost 192.168.234.1" link="http://192.168.234.1:8888/">
+		<User>
+			<Title>Шлычков С.В.</Title>
+			<Login>t00938_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Ронкин Б.А.</Title>
+			<Login>t22172_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Брегман Б.Д</Title>
+			<Login>t00464_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Озар И.Я</Title>
+			<Login>t00181_ig</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Носов С.И.</Title>
+			<Login>t30118_naz</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Березина М.А.</Title>
+			<Login>t00563_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Казакова Т.Н.</Title>
+			<Login>t01446_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Гауке А.И.</Title>
+			<Login>t22204_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Лопатин С.П.</Title>
+			<Login>t00499_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Горбачев В.П.</Title>
+			<Login>t22657_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Саластей В.С.</Title>
+			<Login>t22008_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Мещеряков С.М.</Title>
+			<Login>t01444_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Прокудин С.С.</Title>
+			<Login>t22118_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Мисяк А.С.</Title>
+			<Login>t22674_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Синельщиков Е.Н.</Title>
+			<Login>t22620_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>admin</Title>
+			<Login>admin</Login>
+			<Password>admin</Password>
+		</User>
+	</STAND>
+
+	<STAND id="stand" title="localhost 127.0.0.1" link="http://127.0.0.1:8888/">
+		<User>
+			<Title>Шлычков С.В.</Title>
+			<Login>t00938_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Ронкин Б.А.</Title>
+			<Login>t22172_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Брегман Б.Д</Title>
+			<Login>t00464_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Озар И.Я</Title>
+			<Login>t00181_ig</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Носов С.И.</Title>
+			<Login>t30118_naz</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Березина М.А.</Title>
+			<Login>t00563_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Казакова Т.Н.</Title>
+			<Login>t01446_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Гауке А.И.</Title>
+			<Login>t22204_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Лопатин С.П.</Title>
+			<Login>t00499_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Горбачев В.П.</Title>
+			<Login>t22657_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Саластей В.С.</Title>
+			<Login>t22008_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Мещеряков С.М.</Title>
+			<Login>t01444_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Прокудин С.С.</Title>
+			<Login>t22118_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Мисяк А.С.</Title>
+			<Login>t22674_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>Синельщиков Е.Н.</Title>
+			<Login>t22620_company</Login>
+			<Password>12345</Password>
+		</User>
+		<User>
+			<Title>admin</Title>
+			<Login>admin</Login>
+			<Password>admin</Password>
+		</User>
+	</STAND>
+</CATALOG>
